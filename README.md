@@ -9,6 +9,6 @@ Users' social data are collected through Twitter DEV API: https://developer.twit
 
 ## Sage Digital:
 
-![Image Sage](https://github.com/wlambert01/Twitter-Machine/blob/master/Sage.png)
-![Image Sage](https://github.com/wlambert01/Twitter-Machine/blob/master/Sage4.png)
+![Image Sage](https://github.com/wlambert01/Twitter-Machine/blob/master/image/Sage.png)
+![Image Sage](https://github.com/wlambert01/Twitter-Machine/blob/master/image/Sage4.png)
 
