@@ -2,9 +2,9 @@
 ## Projet overview:
 Software engineering : Twitter Machine that retrieves all social data of users.
 
-I wrote this code during first weeks of my internship in Sage Digital (Palo Alto). //
-Retrieve all social data of users' Twitter accounts and add it to a SQL Database. 
-Also design DB along with a Stanford Student: Nick Hirning. 
+I wrote this code during first weeks of my internship in Sage Digital (Palo Alto). <br/>
+Retrieve all social data of users' Twitter accounts and add it to a SQL Database. <br/>
+Also design DB along with a Stanford Student: Nick Hirning. <br/>
 Users' data are collected through Twitter DEV API https://developer.twitter.com/en/docs/api-reference-index.html
 
 ## Sage Digital:
