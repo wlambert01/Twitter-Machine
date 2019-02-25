@@ -7,4 +7,6 @@ Also design DB along with a Stanford Student: Nick Hirning.
 Users' data are collected through Twitter API https://developer.twitter.com/en/docs/api-reference-index.html
 
 
-![Image of Yaktocat](https://github.com/wlambert01/Twitter-Machine/blob/master/Sage.png)
+![Image Sage](https://github.com/wlambert01/Twitter-Machine/blob/master/Sage.png)
+![Image Sage](https://github.com/wlambert01/Twitter-Machine/blob/master/Sage3.png)
+
