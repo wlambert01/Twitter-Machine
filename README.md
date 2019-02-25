@@ -8,5 +8,5 @@ Users' data are collected through Twitter API https://developer.twitter.com/en/d
 
 
 ![Image Sage](https://github.com/wlambert01/Twitter-Machine/blob/master/Sage.png)
-![Image Sage](https://github.com/wlambert01/Twitter-Machine/blob/master/Sage2.png)
+![Image Sage](https://github.com/wlambert01/Twitter-Machine/blob/master/Sage3.png)
 
